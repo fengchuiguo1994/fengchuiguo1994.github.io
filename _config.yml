@@ -12,7 +12,7 @@ github_repo: "https://github.com/fengchuiguo1994/fengchuiguo1994.github.io.git" 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "每天对这个世界了解多一点!"
-sidebar-avatar: /img/about-FCG-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/about-FCG-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
